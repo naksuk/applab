@@ -1,9 +1,9 @@
 body {
-    background-color: black;
+    background-color: white;
 }
 
 header {
-    color: greenyellow;
+    color: black;
     font-size: 28px;
     text-align: center;
 }
@@ -15,13 +15,13 @@ header {
 
 .container h1 {
     text-align: center;
-    color: blue;
+    color: black;
 }
 
 .container h2 {
-    color: blue;
+    color: black;
 }
 
 .container p {
-    color:white;
+    color:black;
 }
